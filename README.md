@@ -14,7 +14,9 @@ In the addition of PCB version of front and rear panels for the enclosure I am a
 Many thanks to Barb (WB2CBA) for sharing original KiCad files that made this job possible.
 
 Enjoy and 73!
+
 Sardar (AC8L, 4K6SA).
+
 
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/uSDX_PSU_SOTA_V02_Top.jpg?raw=true)
 
