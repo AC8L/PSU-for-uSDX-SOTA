@@ -24,6 +24,6 @@ Sardar (AC8L, 4K6SA).
 
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Bottom.jpg?raw=true)
 
-![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/uSDX_SOTA_PSU_Front_Panel.jpg?raw=true)
+![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/FrontFaceplate/uSDX_SOTA_PSU_Front_Panel.jpg?raw=true)
 
-![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/uSDX_SOTA_PSU_Rear_Panel.jpg?raw=true)
+![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/RearFaceplate/uSDX_SOTA_PSU_Rear_Panel.jpg?raw=true)
