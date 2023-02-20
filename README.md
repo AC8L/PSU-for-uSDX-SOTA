@@ -9,6 +9,8 @@ This is the example of the new BMS unit used: https://a.co/d/hkYq5Yx
 
 Also, I used THD version of 18650 battery holders because they fit the new squeezed PCB design. THD Version example: https://a.co/d/5E8u6dR
 
+Digikey version: https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669
+
 In the addition of PCB version of front and rear panels for the enclosure I am adding the STL variants for those who wants to print them on 3D printer.
 
 Many thanks to Barb (WB2CBA) for sharing original KiCad files that made this job possible.
