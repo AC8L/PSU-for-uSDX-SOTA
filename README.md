@@ -24,10 +24,8 @@ Enjoy and 73!
 Sardar (AC8L, 4K6SA).
 
 <img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/WithRadioBrackets.jpeg" width=50% height=50%>
-
-![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Top.jpg?raw=true)
-
-![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Bottom.jpg?raw=true)
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Bottom.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Top.jpg" width=50% height=50%>
 
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/FrontFaceplate/uSDX_SOTA_PSU_Front_Panel.jpg?raw=true)
 
