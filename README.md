@@ -4,9 +4,9 @@ This is a re-work and size change of an original portable power supply by WB2CBA
 
 It is done to fit the PSU into the same size enclosure as uSDX SOTA transceiver itself: https://a.co/d/9v3JyBe
 
-In fact, this complete unit can be used for any purpose where 12V battery supply is needed, from that perspective it universal.
+In fact, this complete unit can be used for any purpose where 12V battery supply is needed, from that perspective it is universal.
 
-Design was slightly modified to use different BMS unit, as the original one that Barb used is not easily available anymore.
+The design was slightly modified to use different BMS unit, as the original one that Barb used is not easily available anymore.
 This is the example of the new BMS unit used (from Amazon): https://a.co/d/hkYq5Yx
 
 Also, I used THD version of 18650 battery holders because they fit the new squeezed PCB design. THD Version example: https://a.co/d/5E8u6dR
