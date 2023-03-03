@@ -13,9 +13,9 @@ Also, I used THD version of 18650 battery holders because they fit the new squee
 
 Digikey version: https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669
 
-In the addition of PCB version of front and rear panels for the enclosure I am adding the STL variants for those who wants to print them on 3D printer.
+Along with PCB versions of front and rear panels for the enclosure I am adding STL variants for those who want to print them on a 3D printer.
 
-Included STL file is to print the bracket (I used two brackets) to attach PSU to the tranceiver. Bracket should be printed with TPU filament, I used Praline TPU, very easy to print, does not have to be super flex.
+I designed the flex bracket to attach PSU to the tranceiver, STL file is included. I myself used two brackets. They should be printed with TPU filament, I used Praline TPU, very easy to print, does not have to be super flex.
 
 Many thanks to Barb (WB2CBA) for sharing original KiCad files that made this job possible.
 
