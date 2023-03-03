@@ -25,8 +25,6 @@ Sardar (AC8L, 4K6SA).
 
 <img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/WithRadioBrackets.jpeg" width=50% height=50%>
 
-![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/WithRadioBrackets.jpeg?raw=true?width=250)
-
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Top.jpg?raw=true)
 
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/MainPCB/uSDX_SOTA_PSU_V2_Bottom.jpg?raw=true)
@@ -34,3 +32,8 @@ Sardar (AC8L, 4K6SA).
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/FrontFaceplate/uSDX_SOTA_PSU_Front_Panel.jpg?raw=true)
 
 ![alt text](https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/RearFaceplate/uSDX_SOTA_PSU_Rear_Panel.jpg?raw=true)
+
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/FrontOpen.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/BackOpen.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/TopOpen.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/PSU-for-uSDX-SOTA/blob/main/Photos/FrontClosed.jpeg" width=50% height=50%>
